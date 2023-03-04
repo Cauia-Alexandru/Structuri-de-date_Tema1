@@ -1,0 +1,31 @@
+==1665== 58 (32 direct, 26 indirect) bytes in 2 blocks are definitely lost in loss record 5 of 14
+==1665==    at 0x483B7F3: malloc (in /usr/lib/x86_64-linux-gnu/valgrind/vgpreload_memcheck-amd64-linux.so)
+==1665==    by 0x10A967: citesteTabla (in /mnt/c/Users/AleX_MasTer/OneDrive/Desktop/cheker_2/tema1)
+==1665==    by 0x10AC05: main (in /mnt/c/Users/AleX_MasTer/OneDrive/Desktop/cheker_2/tema1)
+==1665== 
+==1665== 61 (32 direct, 29 indirect) bytes in 2 blocks are definitely lost in loss record 6 of 14
+==1665==    at 0x483B7F3: malloc (in /usr/lib/x86_64-linux-gnu/valgrind/vgpreload_memcheck-amd64-linux.so)
+==1665==    by 0x10AAE7: citesteTabla (in /mnt/c/Users/AleX_MasTer/OneDrive/Desktop/cheker_2/tema1)
+==1665==    by 0x10AC05: main (in /mnt/c/Users/AleX_MasTer/OneDrive/Desktop/cheker_2/tema1)
+==1665== 
+==1665== 116 (64 direct, 52 indirect) bytes in 4 blocks are definitely lost in loss record 7 of 14
+==1665==    at 0x483B7F3: malloc (in /usr/lib/x86_64-linux-gnu/valgrind/vgpreload_memcheck-amd64-linux.so)
+==1665==    by 0x10A639: citesteTabla (in /mnt/c/Users/AleX_MasTer/OneDrive/Desktop/cheker_2/tema1)
+==1665==    by 0x10AC05: main (in /mnt/c/Users/AleX_MasTer/OneDrive/Desktop/cheker_2/tema1)
+==1665== 
+==1665== 120 bytes in 1 blocks are possibly lost in loss record 8 of 14
+==1665==    at 0x483B7F3: malloc (in /usr/lib/x86_64-linux-gnu/valgrind/vgpreload_memcheck-amd64-linux.so)
+==1665==    by 0x48D86C3: getdelim (iogetdelim.c:62)
+==1665==    by 0x10AB6A: citesteTabla (in /mnt/c/Users/AleX_MasTer/OneDrive/Desktop/cheker_2/tema1)
+==1665==    by 0x10AC05: main (in /mnt/c/Users/AleX_MasTer/OneDrive/Desktop/cheker_2/tema1)
+==1665== 
+==1665== 135 (48 direct, 87 indirect) bytes in 3 blocks are definitely lost in loss record 9 of 14
+==1665==    at 0x483B7F3: malloc (in /usr/lib/x86_64-linux-gnu/valgrind/vgpreload_memcheck-amd64-linux.so)
+==1665==    by 0x10A47C: citesteTabla (in /mnt/c/Users/AleX_MasTer/OneDrive/Desktop/cheker_2/tema1)
+==1665==    by 0x10AC05: main (in /mnt/c/Users/AleX_MasTer/OneDrive/Desktop/cheker_2/tema1)
+==1665== 
+==1665== 660 (24 direct, 636 indirect) bytes in 1 blocks are definitely lost in loss record 14 of 14
+==1665==    at 0x483DD99: calloc (in /usr/lib/x86_64-linux-gnu/valgrind/vgpreload_memcheck-amd64-linux.so)
+==1665==    by 0x1093AB: init_hash (in /mnt/c/Users/AleX_MasTer/OneDrive/Desktop/cheker_2/tema1)
+==1665==    by 0x10ABDC: main (in /mnt/c/Users/AleX_MasTer/OneDrive/Desktop/cheker_2/tema1)
+==1665== 

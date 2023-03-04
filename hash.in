@@ -1,0 +1,5 @@
+put www.yahoo.com 67.195.160.76
+put www.teamnet.ro 86.105.246.122
+put www.radiozu.ro 192.112.36.4
+put www.realitatea.net 199.127.181.242
+print_bucket 0
